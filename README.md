@@ -50,14 +50,6 @@ dan terus belajar hal baru setiap hari.
 
 ---
 
-## 📊 GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinagustiana8-gif&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinagustiana8-gif&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 💼 Latar Belakang
 
 - 🎓 **SMK Negeri 7 Kabupaten Tangerang** — Akuntansi & Keuangan Lembaga (2023-2026)
